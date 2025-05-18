@@ -5,7 +5,6 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-.idea/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
@@ -40,3 +39,4 @@ build/
 .DS_Store
 
 leetcode.iml
+/.idea/
